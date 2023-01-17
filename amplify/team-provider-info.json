@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify97538d45a99d4-staging-121241-authRole",
+      "UnauthRoleArn": "arn:aws:iam::634692860368:role/amplify-amplify97538d45a99d4-staging-121241-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::634692860368:role/amplify-amplify97538d45a99d4-staging-121241-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-amplify97538d45a99d4-staging-121241-deployment",
+      "UnauthRoleName": "amplify-amplify97538d45a99d4-staging-121241-unauthRole",
+      "StackName": "amplify-amplify97538d45a99d4-staging-121241",
+      "StackId": "arn:aws:cloudformation:eu-west-2:634692860368:stack/amplify-amplify97538d45a99d4-staging-121241/3e2d0cc0-9660-11ed-a58a-0a212bd7a432",
+      "AmplifyAppId": "d2vo796h3lclwk"
+    },
+    "categories": {
+      "auth": {
+        "angularcourseapp11dfb0bb": {}
+      }
+    }
+  }
+}
